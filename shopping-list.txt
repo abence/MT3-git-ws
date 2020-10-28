@@ -1,5 +1,6 @@
 Bevásárló lista
 Narancs
+Málna
 Krumplit
 Pálinka
 Hagyma
