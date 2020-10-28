@@ -1,6 +1,7 @@
 Bevásárló lista
 
 Krumplit
-Sort
+Pálinka
 Hagyma
 Bab
+Hal
